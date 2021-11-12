@@ -1,0 +1,36 @@
+body{ 
+width: 700px ;
+height: 700px;
+}
+
+section{
+    margin: 10px;
+background-color: green;
+width: 700px ;
+height: 700px;
+}
+
+.box1 {
+display: flex;
+justify-content: space-between;
+width: 50px;
+height: 50px;
+}
+
+.box2 {
+    background-color: blanchedalmond;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    ;
+    justify-content: center;
+    position: ;
+}
+.box3 {
+    background-color: blanchedalmond;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    position: ;
+    }
